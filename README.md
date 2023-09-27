@@ -7,4 +7,5 @@
 [Task#1](src/2nd_section/task%2.1.py) [Task#2](src/2nd_section/task%2.2.py) [Task#3](src/2nd_section/task%2.3.py) [Task#4](src/2nd_section/task%2.4.py) [Task#5](src/2nd_section/task%2.5.py) 
 
 ## Функции. Словари. Интерпретатор. Файлы. Модули
-[Task#1](src/3rd_section/task%3.1.py) [Task#2](src/3rd_section/task%3.2.py) [Task#3](src/3rd_section/task%3.3.py) [Task#4](src/3rd_section/task%3.4.py) [Task#5](src/3rd_section/task%3.5.py) 
+[Task#1](src/3rd_section/task%3.1.py) [Task#2](src/3rd_section/task%3.2.py) [Task#3](src/3rd_section/task%3.3.py) [Task#4](src/3rd_section/task%3.4.py) [Task#5](src/3rd_section/task%3.5.py)  
+src/1st_section/task 1.1.py
