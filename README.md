@@ -1,6 +1,6 @@
 # PythonTasks
 
-## Операторы. Перeменные.Типы данных. Условия
+## Операторы. Перeменные. Типы данных. Условия
 [01](src/1st_section/task%201.1.py) [02](src/1st_section/task%201.2.py) [03](src/1st_section/task%201.3.py) [04](src/1st_section/task%201.4.py) [05](src/1st_section/task%201.5.py) [06](src/1st_section/task%201.6.py) [07](src/1st_section/task%201.7.py)  
 
 ## Циклы. Строки. Списки
